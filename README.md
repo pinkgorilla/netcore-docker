@@ -1,5 +1,5 @@
 # netcore-docker
-sample creating docker image for dotnet core project
+sample on creating docker image for dotnet core project
 
 ## how to build image
 run `docker build -t docker-api`
